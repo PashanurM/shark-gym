@@ -1,0 +1,49 @@
+{
+  "template": "gym",
+  "brand": {
+    "name": "Shark Gym",
+    "shortName": "Shark",
+    "tagline": "",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "social": {
+      "instagram": "",
+      "youtube": "",
+      "x": ""
+    },
+    "logo": "/brand/logo.png"
+  },
+  "colors": {
+    "bg": "#220f10",
+    "bgElevated": "#2e181a",
+    "surface": "#381f22",
+    "surface2": "#49292e",
+    "text": "#f2f4f3",
+    "muted": "#ae8d95",
+    "accent": "#fc3436",
+    "accent2": "#f70d1d",
+    "logoBg": "#fcfbfc"
+  },
+  "layout": {
+    "headerLogoBg": false,
+    "footerLogoBg": false
+  },
+  "pages": {
+    "home": true,
+    "about": true,
+    "branches": true,
+    "halls": false,
+    "trainers": true,
+    "services": true,
+    "tools": false,
+    "equipment": true,
+    "pricing": true,
+    "shop": true,
+    "blog": true,
+    "faq": true,
+    "contact": true,
+    "auth": false
+  }
+}
